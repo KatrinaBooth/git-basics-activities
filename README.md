@@ -2,6 +2,8 @@
 
 This repository contains the reference materials for engineers who need to learn and practice the basics of version control using Git and GitHub.
 
+It is purely educational and is used to grasp GitHub basics.
+
 ## Contents
 
 - [Version Control Basics](version-control-basics.md)
